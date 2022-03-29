@@ -1,5 +1,22 @@
 # AutoCAD-template
-Version Theo
+
+Ceci est un projet de template AutoCAD pour les ingé archi de Uliege.
+
+Le but est de créer un template général pour nos plans d'archi :
+ * titres
+ * cotes
+ * lignes
+ * calques
+ * hachures
+ * composants dynamiques
+
+C'est un fork du projet vinh-sawada/AutoCAD-template auquel vous pouvez tous contribuer.
+
+
+---------------------------------------------------------------------
+
+Readme original :
+
 AutoCAD Template for Architecture and Interior Design
 
 This template has been prepared for Architectural and Interior Design drawings.
